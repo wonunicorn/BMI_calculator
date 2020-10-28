@@ -1,4 +1,4 @@
-# ibmcalculator
+# bmicalculator
 
 A new Flutter application.
 
